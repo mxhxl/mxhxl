@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am currently working on app development ,i have good knoweledge on webdevelopemnet and worked on hands full on client project as an freellancer<br>i have been wanting to fine to a open source model<br>i am ready to collabrate and work on projects that push me to by fullest
+Hi! I'm a passionate developer currently focused on mobile app development. I also have strong experience in web development and have worked extensively on client projects as a freelancer, handling everything from planning to deployment.
+
+I’m deeply interested in exploring open-source technologies and am actively looking to contribute to impactful open-source projects. I love collaborating with others and enjoy working on challenges that push me to grow, learn, and perform at my best.
+
+If you're looking for someone who’s motivated, curious, and ready to build great things—let’s connect and create something awesome together!
 
 
 ## 🌐 Socials:
